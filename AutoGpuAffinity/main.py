@@ -11,6 +11,7 @@ import textwrap
 import time
 import traceback
 import winreg
+from typing import NoReturn
 
 import consts
 import framerate
@@ -502,7 +503,7 @@ def main() -> int:
     return 0
 
 
-def _main():
+def _main() -> NoReturn:
     exit_code = 0
 
     try:
