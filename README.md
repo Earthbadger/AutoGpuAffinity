@@ -1,5 +1,7 @@
 # AutoGpuAffinity
 
+[![Downloads](https://img.shields.io/github/downloads/deaglebullet/AutoGpuAffinity/total.svg)](https://github.com/deaglebullet/AutoGpuAffinity/releases)
+
 <img src="/assets/img/example-output.png" width="1000">
 
 > [!IMPORTANT]
